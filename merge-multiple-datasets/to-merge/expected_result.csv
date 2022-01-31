@@ -1,0 +1,23 @@
+﻿ID,A1,A2,A3,A4,A5,Notes,Dataset
+1,3,1,8,5,10,looks good,A
+2,7,3,7,3,3,not sure,A
+3,7,7,8,9,3,double check,B
+4,,,8,,,looks good,"A, B"
+5,2,5,10,,,looks good,"A, B"
+6,2,3,10,10,7,looks good,"A, B"
+7,10,10,6,1,1,looks good,"A, B"
+8,6,9,3,10,10,looks good,A
+9,6,10,1,6,,looks good,A
+10,6,7,,,,looks good,B
+11,7,2,4,8,,double check,A
+12,,,6,9,6,double check,A
+13,,,1,5,1,double check,"A, B"
+14,,,1,2,3,looks good,"A, B"
+15,10,3,5,10,3,looks good,B
+16,8,2,6,8,4,looks good,A
+17,5,3,,,5,looks good,A
+18,5,2,,,3,looks good,B
+19,2,10,2,2,10,looks good,"A, B"
+20,1,5,8,4,8,not sure,"A, B"
+21,3,8,,,9,not sure,"A, B"
+22,,4,6,3,5,not sure,"A, B"
